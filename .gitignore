@@ -17,7 +17,7 @@ test/e2e/db.json
 docs/_book
 dev-helpers/examples
 
-# dist
+dist
 flavors/**/dist/*
 /lib
 /es
@@ -27,4 +27,3 @@ dist/log*
 # Cypress
 test/e2e-cypress/screenshots
 test/e2e-cypress/videos
-dist/
